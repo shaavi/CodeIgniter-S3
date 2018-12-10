@@ -3,7 +3,7 @@ require_once('vendor/autoload.php');
 require_once('application/libraries/S3.php');
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class AdminEditEventController extends CI_Controller
+class Controller_name extends CI_Controller
 {
 
     function __construct() {
